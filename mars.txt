@@ -2,4 +2,8 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 This is the planet Mars
+<<<<<<< HEAD
 We added a different line in the other copy
+=======
+This line added to Wolfman's copy
+>>>>>>> d4762872d213edb6f15a6090de2e7d721fbd621b
